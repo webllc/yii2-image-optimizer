@@ -24,6 +24,15 @@
         {
             "name": "Ben N",
             "email": "bentinata@gmail.com"
+        },
+        {
+            "name": "Denis V. DIdenko",
+            "email": "d.didenko05@gmail.com",
+            "homepage": "https://mit24.ru/",
+            "role": "Developer"
         }
-    ]
+    ],
+    "support": {
+        "issues": "https://github.com/webllc/yii2-image-optimizer/issues"
+    }
 }
