@@ -1,11 +1,11 @@
 {
-    "name": "rollingglory/yii2-image-optimizer",
+    "name": "webllc/yii2-image-optimizer",
     "type": "yii2-extension",
     "description": "The image optimizer integration for the Yii framework",
     "keywords": ["yii2", "image", "optimizer", "png", "optipng", "pngquant", "jpg", "jpegoptim"],
     "require": {
-        "php": "^7.0",
-        "spatie/image-optimizer": "^1.1",
+        "php": "^7.1",
+        "webllc/image-optimizer": "^1.1",
         "yiisoft/yii2": "~2"
     },
     "repositories": [
@@ -16,7 +16,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "rollingglory\\ImageOptimizer\\": "src"
+            "webllc\\yii2\\ImageOptimizer\\": "src"
         }
     },
     "license": "ISC",

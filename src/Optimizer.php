@@ -1,9 +1,9 @@
 <?php
 
-namespace rollingglory\ImageOptimizer;
+namespace webllc\yii2\ImageOptimizer;
 
 use Yii;
-use Spatie\ImageOptimizer\OptimizerChainFactory;
+use webllc\ImageOptimizer\OptimizerFactory;
 
 class Optimizer
 {
